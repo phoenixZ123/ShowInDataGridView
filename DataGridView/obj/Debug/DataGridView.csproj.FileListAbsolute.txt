@@ -1,0 +1,12 @@
+E:\MY_COURSE\C#adoTrain\DataGridView\DataGridView\bin\Debug\DataGridView.exe.config
+E:\MY_COURSE\C#adoTrain\DataGridView\DataGridView\bin\Debug\DataGridView.exe
+E:\MY_COURSE\C#adoTrain\DataGridView\DataGridView\bin\Debug\DataGridView.pdb
+E:\MY_COURSE\C#adoTrain\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.AssemblyReference.cache
+E:\MY_COURSE\C#adoTrain\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.SuggestedBindingRedirects.cache
+E:\MY_COURSE\C#adoTrain\DataGridView\DataGridView\obj\Debug\DataGridView.Form1.resources
+E:\MY_COURSE\C#adoTrain\DataGridView\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+E:\MY_COURSE\C#adoTrain\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+E:\MY_COURSE\C#adoTrain\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.CoreCompileInputs.cache
+E:\MY_COURSE\C#adoTrain\DataGridView\DataGridView\obj\Debug\DataGridView.exe
+E:\MY_COURSE\C#adoTrain\DataGridView\DataGridView\obj\Debug\DataGridView.pdb
+E:\MY_COURSE\C#adoTrain\DataGridView\DataGridView\obj\Debug\DataGridView.ViewFromDatabase.resources
